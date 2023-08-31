@@ -33,7 +33,7 @@ Esta é uma API simples de produtos desenvolvida com Node.js e Express.
 - DELETE /products/:id: Exclui um produto por ID.
 
 ## Contribuição
-Contribuições são bem-vindas! Se você encontrar bugs ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue (https://github.com/seu-usuario/nome-do-repositorio/issues) ou enviar um pull request (https://github.com/EdsonMiguel/nodejs-pucmg/pulls).
+Contribuições são bem-vindas! Se você encontrar bugs ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue (https://github.com/EdsonMiguel/nodejs-pucmg/issues) ou enviar um pull request (https://github.com/EdsonMiguel/nodejs-pucmg/pulls).
 
 ## Créditos
 Este projeto foi desenvolvido como parte do trabalho da disciplina de Arquitetura de Software Distribuídos do curso de Plataforma Node.js na PUC Minas.
